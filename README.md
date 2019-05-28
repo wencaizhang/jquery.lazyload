@@ -1,5 +1,7 @@
 # 简易版 jquery 图片懒加载插件
 
+预览：[https://wencaizhang.github.io/jquery.lazyload/](https://wencaizhang.github.io/jquery.lazyload/)
+
 ## 使用
 
 ```html
